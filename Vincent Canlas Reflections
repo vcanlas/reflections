@@ -1,0 +1,58 @@
+## Oct. 5, 2013
+
+## Sept. 28, 2013: What are your thoughts on reproducibility? For it or against it? 
+### _What logical reasons do you have to be for it or against it?_ _What is the strongest justification for the opposite view?_
+I asked for helped... finally. I know that this course talks a lot about collaboration, and I did that so I finally
+actually figured out how to do this 'pull request' thing. Just a feedback on the course, before I talk about my
+thoughts on reproducibility, I think that it should be clearer -- in steps, on how to do such basic things. Yes, I agree
+there are some things we can research on our own etc, but there is also a level of expectation to let us know about
+the basics, especially for new platforms like Github.
+As I mentioned somewhere else, I believe that reproducibility isn't a bad thing. For some people it works, for
+some people it doesn't. Unfortunately, I am not a big fan of it at this stage since I am not a researcher
+not a good performer in this technology space. However, I know I benefit from it. For example, as I was taking
+Stat 133 and performing a lot of tasks in R, I benefited from this community where people are contributing to
+the stackoverflow space--they placed work there which is reproducible. In that sense, I am for it. However, the
+caveat I see as to why I would  be against this is that work can sometimes be exposed and used by others for personal
+financial benefit. Someone could be doing work for profit, but taking work that is publicly placed and is reproducible.
+Unless things posted online are copyrighted, these work are vulnerable for abuse. The strongest justification as to
+why this is awesome and great is that it does produce a great amount of resources for others for the betterment of our 
+communit. People who continuously chip in to ideas and work will definitely help whatever they're trying to do--whether
+that be helping improve medicine and healthcare, or fixing certain problems like poverty--where the end goal is really
+great, we can definitely see the great value of reproducibility and collaboration in this sense.
+
+
+## Sept. 21, 2013
+The guest speakers this week were engaging in that I could recall the things that I learned from taking Stat
+134 and 135. The terminologies, the theories, the tests that were all a bunch of... terminologies, theories, and tests
+are now being seen as things that are actually used with data, in real life situations. This is what I am interested
+in--utilizing what I learn in class for real world applications. I am stoked to hear about our project and the work
+that the speakers do. As a guiding light though for this week, I am still confused as to what we are doing in this class.
+I know the programs/languages we're using since you basically told us to download a bunch of things, but it is not helpful
+at all that we don't have anything to look back on here on github (or bspace... or anywhere else). I think it is
+difficult for collaboration to occur with our peers at this point since we all have different expectations
+and commitments and for someone like me who does a lot of campus, work, and school--it is difficult to provide
+feedback to others and obtain those feedback and would probably be more beneficial if we had something to look at
+through online space like github. I know we just talked about feedback and input last week, so it'd be great
+to see those changes implemented. As far as this week goes, it was great to see a refresher so I can't wait to 
+actually work.
+
+## Sept. 14, 2013
+I thought that the class on Thursday for this week was somewhat productive, but I personally feel that things like these
+should be done some place else (i.e. a survey). Although I understand that this is a non-traditional course, I agree
+with most of my peers that this class needs somewhat more of a direction. End goals were set in the beginning
+and I think that's where most of the excitement is for this course. There's a lot of ideas, wants, thoughts for this class
+but I personally feel that a direction for things we do would be great. I do not have a lot of programming experience,
+as a matter of fact I only know R and basic HTML. Those are languages that I am familiar with, so for example,
+Github is something new to me. Posting a reflection this way is "complicated." Perhaps it's because it's new to me
+and it will make more sense later. But I feel like to go along with what I said earlier, it'd be great to actually
+tell us to type our reflection by clicking the readme.md, etc. This way, for those of us who are starters, we have
+that sense of direction.
+
+## Sept. 7, 2013
+I thought that the first week of class was really interesting. I haven't had the exposure to all these things
+we began talking about like virtual machines and what not. When I installed the programs on my laptop, 
+I was actually feeling afraid I would mess up since the instructions didn't really give detailed step-by-step 
+details on how to do things. I guess this is one of the blocks I had during the week--not knowing exactly what to do. 
+I was used to following instructions, especially when setting up new things. Anyway, the group discussion where we 
+tried to solve each other's concerns was a nice way to really diversify the knowledge of what other people knew and 
+what you didn't. It shows proof how collaboration really helps us in different ways.
